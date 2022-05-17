@@ -7,7 +7,7 @@ My name is Matt and I make computers do things. **Full-stack web development** i
 If you'd like to work together, don't hesitate to [reach out](/#contact).
 
 ## Web
-Getting content from one computer to another, anywhere. The tools and frameworks for getting this done are getting faster and more resilient everyday. I originally started on a **Linux, Apache, MySQL, and PHP** stack. The classic and still widely used **LAMP** stack. **Wordpress, Drupal, Joomla**, and other content management systems (**CMS**) leverage this stack. 
+Getting content from one computer to another, anywhere. The tools and frameworks for getting this done are getting faster and more resilient everyday. I originally started on a **Linux, Apache, MySQL, and PHP** stack. The classic and still widely used **LAMP** stack. **WordPress, Drupal, Joomla**, and other content management systems (**CMS**) leverage this stack. 
 
 **Flat file CMS (grav, pico)** platforms are another interesting choice because of their simplicity. There is no database to manage your content. The filesystem is the database and the content is written in **Markdown**. 
 
