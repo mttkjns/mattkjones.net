@@ -79,8 +79,20 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: "Abril Fatface", serif;
-  font-size: 3.25rem;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 4.25rem;
+}
+
+@media (max-width: 28em) {
+  .sidebar-about h1 {
+    font-size: 3.25rem;
+  }
+}
+
+@media (max-width: 22em) {
+  .sidebar-about h1 {
+    font-size: 2.25rem;
+  }
 }
 
 /* Sidebar nav */
