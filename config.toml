@@ -1,4 +1,4 @@
-baseURL = 'https://mattkjones.net/'
+baseURL = 'https://mattkjones.net'
 languageCode = 'en-us'
 title = 'matt jones'
 theme = 'hyde'    
