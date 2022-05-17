@@ -1,0 +1,18 @@
+baseURL = 'https://mattkjones.net'
+languageCode = 'en-us'
+title = 'matt jones'
+theme = 'hyde'    
+
+[markup.goldmark.renderer] 
+    unsafe= true
+
+[Params]
+    description = 'Developing web, API integration, and automation. Based in Atlanta, GA.'
+    themeColor = 'theme-base-08'
+    copyright = 'mail@mattkjones.net'
+    contactFormId = 'xpzbkblo'
+
+[Menus]
+    main = [
+        {Name = "Contact", URL = "/#contact"}
+    ]
