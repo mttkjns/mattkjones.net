@@ -13,7 +13,7 @@ Getting content from one computer to another, anywhere. The tools and frameworks
 
 Even simpler is using a **static site generator (hugo, jekyll)**.  Static sites can be hosted anywhere a web server is running and for very cheap, sometimes even free.  They are also incredibly secure due to the reduced attack surface.
 
-When developing enterprise **web applications** and **middleware**, I've leaned on Microsoft's **ASP.NET framework** and **Node.js**.
+When developing enterprise **web applications** and **middleware**, I've leaned on Microsoft's **ASP.NET framework** and also **Node.js**.
 
 ## APIs
 **A**pplication **P**rogramming **I**nterfaces are the glue that holds together a data rich application. We can use APIs to integrate data from several different sources to **action any task from any application** or **enable automation of a task**. 

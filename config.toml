@@ -14,5 +14,7 @@ theme = 'hyde'
 
 [Menus]
     main = [
-        {Name = "Contact", URL = "/#contact"}
+        {Name = "mail@mattkjones.net", URL = "mailto:mail@mattkjones.net", weight = 1},
+        {Name = "+1 404-465-1489", URL = "tel:+14044651489", weight = 2},
+        {Name = "Contact Form", URL = "/#contact", weight = 3}
     ]

@@ -13,11 +13,9 @@
     <nav>
       <ul class="sidebar-nav">
         {{ range .Site.Menus.main -}}
-          <li><a href="{{.URL}}"> {{ .Name }} </a></li>
+          <li><a href="{{.URL | safeURL}}"> {{ .Name }} </a></li>
         {{- end }}
       </ul>
     </nav>
-
-    <p>{{ with .Site.Params.copyright }}{{.}} &copy; {{ now.Format "2006"}}{{end}}</p>
   </div>
 </aside>

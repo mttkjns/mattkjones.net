@@ -2,6 +2,8 @@ input[type=text],
 input[type=email], 
 textarea {
     font-size: 18px;
+    font-weight: 400;
+    font-style: italic;
     font-family: 'Montserrat', sans-serif;
     background-color: #fff;
     border: 2px solid #707070;
@@ -21,6 +23,7 @@ button {
     color: #fff;
     font-size: 20px;
     font-weight: 800;
+    font-style: italic;
     font-family: 'Montserrat', sans-serif;
     letter-spacing: .1em;
     padding: 0.75rem 1.25rem;
@@ -32,3 +35,9 @@ button:hover {
     color: #fff;
     outline-offset: -2px;
 }
+
+.sidebar-about h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    font-style: italic;
+  }
